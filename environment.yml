@@ -1,4 +1,4 @@
-name: HQ-Edit
+name: Perspective-Change
 channels:
   - pytorch
   - nvidia
